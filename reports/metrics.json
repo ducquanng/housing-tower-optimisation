@@ -1,0 +1,62 @@
+{
+  "profit": 11398702.0,
+  "total_apartments": 170,
+  "layouts": {
+    "compact": 4,
+    "balanced": 10,
+    "spacious": 9,
+    "penthouse": 0
+  },
+  "floors_by_owner": {
+    "corporation": 4,
+    "investor": 9,
+    "private": 10
+  },
+  "sector_shares": {
+    "social": 0.4,
+    "middle": 0.4,
+    "free": 0.2
+  },
+  "sweep": [
+    {
+      "social_share": 0.0,
+      "status": "optimal",
+      "profit": 18128753.0
+    },
+    {
+      "social_share": 0.1,
+      "status": "optimal",
+      "profit": 16581280.999999994
+    },
+    {
+      "social_share": 0.2,
+      "status": "optimal",
+      "profit": 15010237.0
+    },
+    {
+      "social_share": 0.3,
+      "status": "optimal",
+      "profit": 13282773.0
+    },
+    {
+      "social_share": 0.4,
+      "status": "optimal",
+      "profit": 11398702.0
+    },
+    {
+      "social_share": 0.5,
+      "status": "optimal",
+      "profit": 9273575.000000006
+    },
+    {
+      "social_share": 0.6,
+      "status": "optimal",
+      "profit": 6848572.0
+    },
+    {
+      "social_share": 0.7,
+      "status": "infeasible",
+      "profit": null
+    }
+  ]
+}
